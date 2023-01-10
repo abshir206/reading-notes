@@ -7,5 +7,9 @@
 
 To create a heading level threee, use three number signs.
 
+  [Masterming Markdown on GitHub](https://guides.github.com/features/mastering-markdown/url)
   
+  Command + K to create hyperlink
+  
+  Quot text with >
   
