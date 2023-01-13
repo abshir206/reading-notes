@@ -8,4 +8,5 @@ To me growth mindset means to think long time rather than being caught up in the
 - Reminder 3: Dont be afraid to fail.
 
 [Class 1](https://github.com/abshir206/reading-notes/blob/main/102/class1.md)
+
 [Link to my github portfolio](https://github.com/abshir206).
