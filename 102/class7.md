@@ -29,3 +29,7 @@ Comparison Operators
 Logical Operators
 Conditional Operators
 Type Operators
+
+## Things i want to know more about:
+
+Does every function declaration need their own function statement?

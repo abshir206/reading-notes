@@ -6,3 +6,6 @@ avaScript borrows most of its syntax from Java, C, and C++, but it has also been
 
 JavaScript is case-sensitive and uses the Unicode character set. For example, the word Früh (which means "early" in German) could be used as a variable name.
 
+## Things i want to know more about
+
+How to place alerts on other parts of the screen

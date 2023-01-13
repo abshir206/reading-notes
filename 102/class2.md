@@ -14,6 +14,7 @@ computers, the text editor that comes with your computer is called,
 “Text Edit.” On Windows computers, the text editor that comes with
 your computer is called, “Notepad.”
 
-Things i want to know more about?
+## Things i want to know more about?
+
 -Does the text editor i use matter?
 -Does it effect code or just preference?

@@ -13,5 +13,6 @@
   
   Quote ***text*** with >
   
-Things i want to learn more about: 
+## Things i want to learn more about: 
+
 - Keep practicing markdown syntax.

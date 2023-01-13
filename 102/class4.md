@@ -9,3 +9,6 @@ When designing for the screen you need to know where all the information is goin
 
 Without the distractions of colors, typeface choices or text, wireframing lets you plan the layout and interaction of your interface. A commonly-used argument for wireframing is that if a user doesn’t know where to go on a plain hand-drawn diagram of your site page, then it is irrelevant what colors or fancy text eventually get used. A button or call to action needs to be clear to the user even it’s not brightly colored and flashing.
 
+## Things i want to know more about:
+
+Are wireframes always used before making a site?

@@ -8,3 +8,6 @@ A document is usually a text file structured using a markup language — HTML is
 
 Presenting a document to a user means converting it into a form usable by your audience. Browsers, like Firefox, Chrome, or Edge, are designed to present documents visually, for example, on a computer screen, projector, or printer.
 
+## Things i want to know more about:
+
+Will code run the exact same without error if im in external or internal CSS? Does it matter?
