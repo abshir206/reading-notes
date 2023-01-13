@@ -10,17 +10,19 @@ My reading journal for Code Fellows
 
 [Class 2](https://github.com/abshir206/reading-notes/blob/main/102/class2.md)
 
-[Class 3]()
+[Class 3](https://github.com/abshir206/reading-notes/blob/main/102/class3.md)
 
-[Class 4]
+[Class 4](https://github.com/abshir206/reading-notes/blob/main/102/class4.md)
 
-[Class 5]
+[Class 5](https://github.com/abshir206/reading-notes/blob/main/102/class5.md)
 
-[Class 6]
+[Class 6](https://github.com/abshir206/reading-notes/blob/main/102/class6.md)
 
-Class
+[Class 7](https://github.com/abshir206/reading-notes/blob/main/102/class7.md)
 
-{}
+[Class 8](https://github.com/abshir206/reading-notes/blob/main/102/class8.md)
+
+
 
 
 
