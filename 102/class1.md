@@ -11,5 +11,7 @@
   
   Command + K to create hyperlink
   
-  Quote***text***with >
+  Quote ***text*** with >
   
+Things i want to learn more about: 
+- Keep practicing markdown syntax.
