@@ -11,5 +11,5 @@ To create a heading level threee, use three number signs.
   
   Command + K to create hyperlink
   
-  Quot text with >
+  Quote text with >
   
