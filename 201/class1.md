@@ -57,15 +57,15 @@ The closing tag: This is the same as the opening tag, except that it includes a 
 ### What is the Difference between < article> and < section> element tags?
 
 - < article> encloses a block of related content that makes sense on its own without the rest of the page (e.g., a single blog post).
-<section> is similar to < article>, but it is more for grouping together a single part of the page that constitutes one single piece of functionality (e.g., a mini map, or a set of article headlines and summaries), or a theme.
+< section> is similar to < article>, but it is more for grouping together a single part of the page that constitutes one single piece of functionality (e.g., a mini map, or a set of article headlines and summaries), or a theme.
 
 ### What Elements does a “typical” website include?
 
-- header: <header>.
-- navigation bar: <nav>.
-- main content: <main>, with various content subsections represented by <article>, <section>, and <div> elements.
-- sidebar: <aside>; often placed inside < main>.
-- footer: <footer>.
+- header: < header>.
+- navigation bar: < nav>.
+- main content: < main>, with various content subsections represented by < article>, < section>, and < div> elements.
+- sidebar: < aside>; often placed inside < main>.
+- footer: < footer>.
 
 ### How does metadata influence Search Engine Optimization?
 
