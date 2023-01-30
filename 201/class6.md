@@ -1,6 +1,6 @@
 # Readings: Problem Domain, Objects, and the DOM
 
-## (JavaScript Object Basics)[https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Basics]
+## [JavaScript Object Basics](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Basics)
 
 - How would you describe an object to a non-technical friend you grew up with?
 
@@ -20,7 +20,7 @@ const dog = {
   }
 }
 
-## (Introduction to the DOM)[https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction]
+## [Introduction to the DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
 
 - What is the DOM?
 - Briefly describe the relationship between the DOM and JavaScript.
