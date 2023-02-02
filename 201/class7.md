@@ -6,6 +6,8 @@
 
 - Explain why we need domain modeling.
 
+- We need domain modeling because a domain model that's articulated well can verify and validate the understanding of a specific problem among various stakeholders. As a communication tool, it defines a vocabulary that can be used within and between both technical and business teams.
+
 ## HTML table basics
 
 [HTML table basics](https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables/Basics)
