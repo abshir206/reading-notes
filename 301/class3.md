@@ -49,6 +49,6 @@
 
 ###Bookmark and Review
 
-[React Tutorial through ‘Declaring a Winner’](https://reactjs.org/tutorial/tutorial.html)
-[React Docs - Lifting State Up](https://reactjs.org/docs/lifting-state-up.html)
+- [React Tutorial through ‘Declaring a Winner’](https://reactjs.org/tutorial/tutorial.html)
+- [React Docs - Lifting State Up](https://reactjs.org/docs/lifting-state-up.html)
 
