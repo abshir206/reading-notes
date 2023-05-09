@@ -22,7 +22,7 @@
 - How might a large scale, distributed application make use of a Queue system like SQS?
   - Amazon SQS can be an essential part of a large-scale distributed application, allowing for efficient communication between microservices, horizontal scaling, batch processing, retry logic, and delayed processing.
 
-### Bookmark and Review
+### Bookmark and Review 
 
 [SNS Javascript SDK](https://docs.aws.amazon.com/AWSJavaScriptSDK/latest/AWS/SNS.html)
 
