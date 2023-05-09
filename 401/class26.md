@@ -41,7 +41,5 @@ Read the React Quick Start quide, to refresh your memory on React.
 [Writing Markup with JSX](https://react.dev/learn/writing-markup-with-jsx)
 
 [sass cheatsheet](https://devhints.io/sass)
-git add .
-git commit -m"update"
-git push
+
 [react cheatsheet](https://devhints.io/react)
